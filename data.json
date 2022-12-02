@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "prefix": "CS",
+      "number": 149,
+      "title": "Introduction to Programming",
+      "url": "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257219",
+      "desc": "Fundamental problem-solving techniques using a modern programming language. Topics include variables, input/output, decisions, loops, functions, arrays, and objects. Students learn about algorithm development, testing strategies, and software tools.",
+      "prereqs": [],
+      "credits": 3
+    },
+    {
+      "prefix": "CS",
+      "number": 159,
+      "title": "Advanced Programming",
+      "url": "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257220",
+      "desc": "Students use advanced problem-solving strategies to develop algorithms using classes and objects and techniques such as recursion, exceptions and file I/O. This course also focuses on designing small applications and effective testing strategies.",
+      "prereqs": [
+        149
+      ],
+      "credits": 3
+    },
+    {
+      "prefix": "CS",
+      "number": 343,
+      "title": "Application Development",
+      "url": "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=264748",
+      "desc": "Overview of application software development fundamentals and their use in building stand-alone applications, visualizing and interacting with complex data representations, and controlling the Internet of Things. This course provides an introduction to the technologies used to create modern user interfaces (e.g., web technologies), establishing a common foundation for later application-focused courses.",
+      "prereqs": [
+        159
+      ],
+      "credits": 3
+    },
+    {
+      "prefix": "CS",
+      "number": 347,
+      "title": "Full-stack Web Development",
+      "url": "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257214",
+      "desc": "This course covers design and development of World Wide Web applications. Students examine protocols, architectures, development languages and facilities, and issues such as accessibility, usability, security and reliability. Students work with a suite of development tools and languages to construct a client or server application that includes a GUI and a database.",
+      "prereqs": [
+        343
+      ],
+      "credits": 3
+    },
+    {
+      "prefix": "CS",
+      "number": 447,
+      "title": "Interaction Design",
+      "url": "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257217",
+      "desc": "Study of and practice with processes, principles, tools, models and techniques for designing interactions between humans and digital products and systems. Topics include physiological and psychological factors affecting interaction design, interaction design processes, interaction models, styles and paradigms, design notations and representations, prototyping, and interaction design evaluation.",
+      "prereqs": [
+        343,
+        789
+      ],
+      "credits": 3
+    }
+  ]
+}

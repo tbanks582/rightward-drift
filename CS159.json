@@ -1,0 +1,9 @@
+{
+  "prefix": "CS",
+  "number": 159,
+  "title": "Advanced Programming",
+  "url": "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257220",
+  "desc": "Students use advanced problem-solving strategies to develop algorithms using classes and objects and techniques such as recursion, exceptions and file I/O. This course also focuses on designing small applications and effective testing strategies.",
+  "prereqs": [149],
+  "credits": 3
+}
